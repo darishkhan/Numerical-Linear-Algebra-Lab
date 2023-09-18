@@ -1,6 +1,6 @@
 # Numerical-Linear-Algebra-Lab
 
-This repository contains the my code of the lab assignments that were given as a part of the course MA227-Computational Lab (Numerical Linear Algebra). 
+This repository contains my code of the lab assignments that were given as a part of the course MA227-Computational Lab (Numerical Linear Algebra). 
 
 
 ## Assignment 4:
