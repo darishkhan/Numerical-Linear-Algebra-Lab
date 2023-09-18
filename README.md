@@ -8,7 +8,7 @@ This repository contains the my code of the lab assignments that were given as a
 <img width="384" alt="image" src="https://github.com/darishkhan/Numerical-Linear-Algebra-Lab/assets/93848997/40ce77dd-98e1-4fd1-902d-8fcd0db715ad">
 
 
-Assignment 5:
+## Assignment 5:
 
 <img width="417" alt="image" src="https://github.com/darishkhan/Numerical-Linear-Algebra-Lab/assets/93848997/cefa4557-b766-438a-a8fe-ed52e693a221">
 
